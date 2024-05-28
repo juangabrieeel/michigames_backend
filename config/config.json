@@ -1,0 +1,9 @@
+{
+    "development": {
+      "username": "usuario",
+      "password": "usuario",
+      "database": "michigames",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+}
